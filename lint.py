@@ -9,7 +9,7 @@ A = 1
 B = 2
 
 # Calculate the sum of A and B
-RESULT = A + B
+RESULT = A - B
 
 # Print the result
 print(RESULT)  # Print the sum of A and B
