@@ -13,3 +13,4 @@ RESULT = A + B
 
 # Print the result
 print(RESULT)  # Print the sum of A and B
+print("hi")
