@@ -64,5 +64,5 @@ class CalculatorTest(unittest.TestCase):
         """
         self.assertEqual(3, self.calc.divide(6, 2), "Division is wrong")
 
-if _name_ == '_main_':
+if __name__ == '_main_':
    unittest.main()
