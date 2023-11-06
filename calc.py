@@ -56,7 +56,7 @@ class CalculatorTest(unittest.TestCase):
         """
         Test the multiply method.
         """
-        self.assertEqual(35, self.calc.multiply(5, 6), "Multiplication is wrong")
+        self.assertEqual(38, self.calc.multiply(5, 6), "Multiplication is wrong")
 
     def test_divide(self):
         """
